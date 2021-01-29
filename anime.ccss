@@ -1,0 +1,955 @@
+.button:hover {
+  transform: scale(2);
+}
+
+/* linear */
+
+.linear-60m {
+  transition: all 1s linear;
+}
+
+.linear-59m {
+  transition: all 0.59s linear;
+}
+
+.linear-58m {
+  transition: all 0.58s linear;
+}
+
+.linear-56m {
+  transition: all 0.56s linear;
+}
+
+.linear-55m {
+  transition: all 0.55s linear;
+}
+
+.linear-54m {
+  transition: all 0.54s linear;
+}
+
+.linear-53m {
+  transition: all 0.53s linear;
+}
+
+.linear-52m {
+  transition: all 0.52s linear;
+}
+
+.linear-51m {
+  transition: all 0.51s linear;
+}
+
+.linear-50m {
+  transition: all 0.50s linear;
+}
+
+.linear-49m {
+  transition: all 0.49s linear;
+}
+
+.linear-48m {
+  transition: all 0.48s linear;
+}
+
+.linear-47m {
+  transition: all 0.47s linear;
+}
+
+.linear-46m {
+  transition: all 0.46s linear;
+}
+
+.linear-45m {
+  transition: all 0.45s linear;
+}
+
+.linear-44m {
+  transition: all 0.44s linear;
+}
+
+.linear-43m {
+  transition: all 0.43s linear;
+}
+
+.linear-42m {
+  transition: all 0.42s linear;
+}
+
+.linear-41m {
+  transition: all 0.41s linear;
+}
+
+.linear-40m {
+  transition: all 0.40s linear;
+}
+
+.linear-39m {
+  transition: all 0.39s linear;
+}
+
+.linear-38m {
+  transition: all 0.38s linear;
+}
+
+.linear-37m {
+  transition: all 0.37s linear;
+}
+
+.linear-36m {
+  transition: all 0.36s linear;
+}
+
+.linear-35m {
+  transition: all 0.35s linear;
+}
+
+.linear-34m {
+  transition: all 0.34s linear;
+}
+
+.linear-33m {
+  transition: all 0.33s linear;
+}
+
+.linear-32m {
+  transition: all 0.32s linear;
+}
+
+.linear-31m {
+  transition: all 0.31s linear;
+}
+
+.linear-30m {
+  transition: all 0.30s linear;
+}
+
+.linear-29m {
+  transition: all 0.29s linear;
+}
+
+.linear-28m {
+  transition: all 0.28s linear;
+}
+
+.linear-27m {
+  transition: all 0.27s linear;
+}
+
+.linear-26m {
+  transition: all 0.26s linear;
+}
+
+.linear-25m {
+  transition: all 0.25s linear;
+}
+
+.linear-24m {
+  transition: all 0.24s linear;
+}
+
+.linear-23m {
+  transition: all 0.23s linear;
+}
+
+.linear-22m {
+  transition: all 0.22s linear;
+}
+
+.linear-21m {
+  transition: all 0.21s linear;
+}
+
+.linear-20m {
+  transition: all 0.20s linear;
+}
+
+.linear-19m {
+  transition: all 0.19s linear;
+}
+
+.linear-18m {
+  transition: all 0.18s linear;
+}
+
+.linear-17m {
+  transition: all 0.17s linear;
+}
+
+.linear-16m {
+  transition: all 0.16s linear;
+}
+
+.linear-15m {
+  transition: all 0.15s linear;
+}
+
+.linear-14m {
+  transition: all 0.14s linear;
+}
+
+.linear-13m {
+  transition: all 0.13s linear;
+}
+
+.linear-12m {
+  transition: all 0.12s linear;
+}
+
+.linear-11m {
+  transition: all 0.11s linear;
+}
+
+.linear-10m {
+  transition: all 0.10s linear;
+}
+
+.linear-9m {
+  transition: all 0.09s linear;
+}
+
+.linear-8m {
+  transition: all 0.08s linear;
+}
+
+.linear-7m {
+  transition: all 0.07s linear;
+}
+
+.linear-6m {
+  transition: all 0.06s linear;
+}
+
+.linear-5m {
+  transition: all 0.05s linear;
+}
+
+.linear-4m {
+  transition: all 0.04s linear;
+}
+
+.linear-3m {
+  transition: all 0.03s linear;
+}
+
+.linear-2m {
+  transition: all 0.02s linear;
+}
+
+.linear-1m {
+  transition: all 0.01s linear;
+}
+
+/* ease out */
+
+.ease-out-60m {
+  transition: all 1s ease-out;
+}
+
+.ease-out-59m {
+  transition: all 0.59s ease-out;
+}
+
+.ease-out-58m {
+  transition: all 0.58s ease-out;
+}
+
+.ease-out-56m {
+  transition: all 0.56s ease-out;
+}
+
+.ease-out-55m {
+  transition: all 0.55s ease-out;
+}
+
+.ease-out-54m {
+  transition: all 0.54s ease-out;
+}
+
+.ease-out-53m {
+  transition: all 0.53s ease-out;
+}
+
+.ease-out-52m {
+  transition: all 0.52s ease-out;
+}
+
+.ease-out-51m {
+  transition: all 0.51s ease-out;
+}
+
+.ease-out-50m {
+  transition: all 0.50s ease-out;
+}
+
+.ease-out-49m {
+  transition: all 0.49s ease-out;
+}
+
+.ease-out-48m {
+  transition: all 0.48s ease-out;
+}
+
+.ease-out-47m {
+  transition: all 0.47s ease-out;
+}
+
+.ease-out-46m {
+  transition: all 0.46s ease-out;
+}
+
+.ease-out-45m {
+  transition: all 0.45s ease-out;
+}
+
+.ease-out-44m {
+  transition: all 0.44s ease-out;
+}
+
+.ease-out-43m {
+  transition: all 0.43s ease-out;
+}
+
+.ease-out-42m {
+  transition: all 0.42s ease-out;
+}
+
+.ease-out-41m {
+  transition: all 0.41s ease-out;
+}
+
+.ease-out-40m {
+  transition: all 0.40s ease-out;
+}
+
+.ease-out-39m {
+  transition: all 0.39s ease-out;
+}
+
+.ease-out-38m {
+  transition: all 0.38s ease-out;
+}
+
+.ease-out-37m {
+  transition: all 0.37s ease-out;
+}
+
+.ease-out-36m {
+  transition: all 0.36s ease-out;
+}
+
+.ease-out-35m {
+  transition: all 0.35s ease-out;
+}
+
+.ease-out-34m {
+  transition: all 0.34s ease-out;
+}
+
+.ease-out-33m {
+  transition: all 0.33s ease-out;
+}
+
+.ease-out-32m {
+  transition: all 0.32s ease-out;
+}
+
+.ease-out-31m {
+  transition: all 0.31s ease-out;
+}
+
+.ease-out-30m {
+  transition: all 0.30s ease-out;
+}
+
+.ease-out-29m {
+  transition: all 0.29s ease-out;
+}
+
+.ease-out-28m {
+  transition: all 0.28s ease-out;
+}
+
+.ease-out-27m {
+  transition: all 0.27s ease-out;
+}
+
+.ease-out-26m {
+  transition: all 0.26s ease-out;
+}
+
+.ease-out-25m {
+  transition: all 0.25s ease-out;
+}
+
+.ease-out-24m {
+  transition: all 0.24s ease-out;
+}
+
+.ease-out-23m {
+  transition: all 0.23s ease-out;
+}
+
+.ease-out-22m {
+  transition: all 0.22s ease-out;
+}
+
+.ease-out-21m {
+  transition: all 0.21s ease-out;
+}
+
+.ease-out-20m {
+  transition: all 0.20s ease-out;
+}
+
+.ease-out-19m {
+  transition: all 0.19s ease-out;
+}
+
+.ease-out-18m {
+  transition: all 0.18s ease-out;
+}
+
+.ease-out-17m {
+  transition: all 0.17s ease-out;
+}
+
+.ease-out-16m {
+  transition: all 0.16s ease-out;
+}
+
+.ease-out-15m {
+  transition: all 0.15s ease-out;
+}
+
+.ease-out-14m {
+  transition: all 0.14s ease-out;
+}
+
+.ease-out-13m {
+  transition: all 0.13s ease-out;
+}
+
+.ease-out-12m {
+  transition: all 0.12s ease-out;
+}
+
+.ease-out-11m {
+  transition: all 0.11s ease-out;
+}
+
+.ease-out-10m {
+  transition: all 0.10s ease-out;
+}
+
+.ease-out-9m {
+  transition: all 0.09s ease-out;
+}
+
+.ease-out-8m {
+  transition: all 0.08s ease-out;
+}
+
+.ease-out-7m {
+  transition: all 0.07s ease-out;
+}
+
+.ease-out-6m {
+  transition: all 0.06s ease-out;
+}
+
+.ease-out-5m {
+  transition: all 0.05s ease-out;
+}
+
+.ease-out-4m {
+  transition: all 0.04s ease-out;
+}
+
+.ease-out-3m {
+  transition: all 0.03s ease-out;
+}
+
+.ease-out-2m {
+  transition: all 0.02s ease-out;
+}
+
+.ease-out-1m {
+  transition: all 0.01s ease-out;
+}
+
+/* out */
+
+.out-60m {
+  transition: all 1s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-59m {
+  transition: all 0.59s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-58m {
+  transition: all 0.58s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-56m {
+  transition: all 0.56s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-55m {
+  transition: all 0.55s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-54m {
+  transition: all 0.54s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-53m {
+  transition: all 0.53s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-52m {
+  transition: all 0.52s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-51m {
+  transition: all 0.51s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-50m {
+  transition: all 0.50s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-49m {
+  transition: all 0.49s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-48m {
+  transition: all 0.48s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-47m {
+  transition: all 0.47s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-46m {
+  transition: all 0.46s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-45m {
+  transition: all 0.45s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-44m {
+  transition: all 0.44s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-43m {
+  transition: all 0.43s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-42m {
+  transition: all 0.42s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-41m {
+  transition: all 0.41s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-40m {
+  transition: all 0.40s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-39m {
+  transition: all 0.39s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-38m {
+  transition: all 0.38s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-37m {
+  transition: all 0.37s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-36m {
+  transition: all 0.36s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-35m {
+  transition: all 0.35s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-34m {
+  transition: all 0.34s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-33m {
+  transition: all 0.33s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-32m {
+  transition: all 0.32s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-31m {
+  transition: all 0.31s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-30m {
+  transition: all 0.30s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-29m {
+  transition: all 0.29s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-28m {
+  transition: all 0.28s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-27m {
+  transition: all 0.27s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-26m {
+  transition: all 0.26s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-25m {
+  transition: all 0.25s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-24m {
+  transition: all 0.24s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-23m {
+  transition: all 0.23s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-22m {
+  transition: all 0.22s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-21m {
+  transition: all 0.21s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-20m {
+  transition: all 0.20s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-19m {
+  transition: all 0.19s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-18m {
+  transition: all 0.18s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-17m {
+  transition: all 0.17s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-16m {
+  transition: all 0.16s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-15m {
+  transition: all 0.15s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-14m {
+  transition: all 0.14s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-13m {
+  transition: all 0.13s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-12m {
+  transition: all 0.12s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-11m {
+  transition: all 0.11s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-10m {
+  transition: all 0.10s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-9m {
+  transition: all 0.09s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-8m {
+  transition: all 0.08s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-7m {
+  transition: all 0.07s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-6m {
+  transition: all 0.06s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-5m {
+  transition: all 0.05s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-4m {
+  transition: all 0.04s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-3m {
+  transition: all 0.03s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-2m {
+  transition: all 0.02s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.out-1m {
+  transition: all 0.01s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+/* linear out */
+
+.linear-out-60m {
+  transition: all 1s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-59m {
+  transition: all 0.59s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-58m {
+  transition: all 0.58s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-56m {
+  transition: all 0.56s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-55m {
+  transition: all 0.55s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-54m {
+  transition: all 0.54s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-53m {
+  transition: all 0.53s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-52m {
+  transition: all 0.52s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-51m {
+  transition: all 0.51s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-50m {
+  transition: all 0.50s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-49m {
+  transition: all 0.49s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-48m {
+  transition: all 0.48s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-47m {
+  transition: all 0.47s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-46m {
+  transition: all 0.46s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-45m {
+  transition: all 0.45s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-44m {
+  transition: all 0.44s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-43m {
+  transition: all 0.43s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-42m {
+  transition: all 0.42s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-41m {
+  transition: all 0.41s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-40m {
+  transition: all 0.40s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-39m {
+  transition: all 0.39s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-38m {
+  transition: all 0.38s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-37m {
+  transition: all 0.37s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-36m {
+  transition: all 0.36s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-35m {
+  transition: all 0.35s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-34m {
+  transition: all 0.34s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-33m {
+  transition: all 0.33s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-32m {
+  transition: all 0.32s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-31m {
+  transition: all 0.31s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-30m {
+  transition: all 0.30s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-29m {
+  transition: all 0.29s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-28m {
+  transition: all 0.28s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-27m {
+  transition: all 0.27s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-26m {
+  transition: all 0.26s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-25m {
+  transition: all 0.25s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-24m {
+  transition: all 0.24s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-23m {
+  transition: all 0.23s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-22m {
+  transition: all 0.22s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-21m {
+  transition: all 0.21s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-20m {
+  transition: all 0.20s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-19m {
+  transition: all 0.19s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-18m {
+  transition: all 0.18s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-17m {
+  transition: all 0.17s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-16m {
+  transition: all 0.16s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-15m {
+  transition: all 0.15s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-14m {
+  transition: all 0.14s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-13m {
+  transition: all 0.13s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-12m {
+  transition: all 0.12s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-11m {
+  transition: all 0.11s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-10m {
+  transition: all 0.10s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-9m {
+  transition: all 0.09s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-8m {
+  transition: all 0.08s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-7m {
+  transition: all 0.07s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-6m {
+  transition: all 0.06s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-5m {
+  transition: all 0.05s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-4m {
+  transition: all 0.04s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-3m {
+  transition: all 0.03s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-2m {
+  transition: all 0.02s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.linear-out-1m {
+  transition: all 0.01s cubic-bezier(0, 0, 0.2, 1);
+}
