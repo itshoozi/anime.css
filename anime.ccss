@@ -1465,7 +1465,7 @@
   transform: translateY(-6px);
 }
 
-up-7:hover {
+.up-7:hover {
   transform: translateY(-7px);
 }
 
@@ -1627,7 +1627,7 @@ up-7:hover {
   transform: translateY(6px);
 }
 
-down-7:hover {
+.down-7:hover {
   transform: translateY(7px);
 }
 
@@ -1789,7 +1789,7 @@ down-7:hover {
   transform: translateX(6px);
 }
 
-right-7:hover {
+.right-7:hover {
   transform: translateX(7px);
 }
 
@@ -1951,7 +1951,7 @@ right-7:hover {
   transform: translateX(-6px);
 }
 
-left-7:hover {
+.left-7:hover {
   transform: translateX(-7px);
 }
 
@@ -2113,7 +2113,7 @@ left-7:hover {
   transform: scale(1.6);
 }
 
-scale-7:hover {
+.scale-7:hover {
   transform: scale(1.7);
 }
 
