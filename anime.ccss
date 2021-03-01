@@ -6151,12 +6151,3 @@
   opacity: 1;
   visibility: visible;
 }
-
-
-@bot.event
-async def on_message(message):
-	await bot.process_commands(message)
-	if(message.author==bot.user):
-		return
-	elif(bot.user.mentioned_in(message)):
-		await message.channel.send("shhh im being fucked rn")
